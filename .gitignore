@@ -1,0 +1,7 @@
+.idea
+
+# Mac General
+.DS_Store
+/server/gobuild_server
+/server/main/main
+/client/client
